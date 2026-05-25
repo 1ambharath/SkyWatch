@@ -1,4 +1,4 @@
-# SkyWatch - Product Master Document
+# SkyWatch - Open Source App for Realtime Flight Tracking
 > Version 1.0 | Platform: Android (MVP) | Status: 1st iteration completed
 
 ---
